@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "item": "aqsd",
+      "id": 2
+    },
+    {
+      "item": "aqsd",
+      "id": 3
+    },
+    {
+      "item": "Lojas",
+      "id": 4
+    },
+    {
+      "item": "swapato",
+      "id": 5
+    },
+    {
+      "item": "bolsa",
+      "id": 6
+    },
+    {
+      "item": "relogio",
+      "id": 7
+    }
+  ]
+}
